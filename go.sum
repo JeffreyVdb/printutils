@@ -1,0 +1,5 @@
+github.com/JeffreyVdb/printutils v0.0.0-20210414063915-94073505d32c/go.mod h1:ehJW92Prr/33nz0ZOPtXVGayIEnEb20JdXdW0acDXBE=
+github.com/JeffreyVdb/upperprinter v0.0.0-20210414063430-c1fad99e3784 h1:K6XKiEiviXQYCFp6J7YJh+vHAWdIPbLxYTAvQAtfq4k=
+github.com/JeffreyVdb/upperprinter v0.0.0-20210414063430-c1fad99e3784/go.mod h1:/uRCjrH73tsQ6Q4o0osQY6OwYzF9sdjckmDlSp9xYa0=
+github.com/JeffreyVdb/upperprinter v0.0.0-20210414064103-e350b93a9cd2 h1:uan9gOJPKNa0i0ERvFqOp6y3UJYGh4vRGW/cVFBAq6E=
+github.com/JeffreyVdb/upperprinter v0.0.0-20210414064103-e350b93a9cd2/go.mod h1:PfDCpmUReaDkKUnvHbKdzcEGeR9MwrFOr5UP66Wa5Cc=
